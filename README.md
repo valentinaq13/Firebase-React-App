@@ -1,4 +1,4 @@
-App CRUD desarrollada con con Firebase y React.
+<h1>App CRUD </h1>
 Tech Stack:
 
 * React.js
