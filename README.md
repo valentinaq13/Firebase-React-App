@@ -1,6 +1,6 @@
 <h1>App CRUD </h1>
-(create, read, update and delete options)
-Tech Stack:
+<p>(create, read, update and delete options)</p>
+<p>Tech Stack:</p>
 
 * React.js
 * Firebase
